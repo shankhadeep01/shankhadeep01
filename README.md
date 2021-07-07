@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shankhadeep
+- 👋 Hi, I’m Shankhadeep, currently working as Application Developer at Thoughtworks
 - 👀 I’m interested in Backend Development and System Designs
 - 🌱 I’m currently learning Go-lang and React.js
 - 📫 How to reach me - shankha.m8@gmail.com 
